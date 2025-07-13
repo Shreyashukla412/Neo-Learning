@@ -1,5 +1,4 @@
 # Neo-Learning
-Neo Learn Academy
 Neo Learn Academy is an educational web platform designed to teach in-demand technical skills to students, professionals, and beginners. The platform offers structured learning paths and resources for programming languages and technologies such as:
 
 🌐 Full Stack Web Development
