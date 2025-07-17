@@ -1,15 +1,15 @@
 # Neo-Learning
 Neo Learn Academy is an educational web platform designed to teach in-demand technical skills to students, professionals, and beginners. The platform offers structured learning paths and resources for programming languages and technologies such as:
 
-🌐 Full Stack Web Development
+ - Full Stack Web Development
 
-☕ Java Programming
+- Java Programming
 
-🐍 Python Development
+- Python Development
 
 Whether you're just starting out or looking to enhance your current skill set, Neo Learn Academy provides hands-on tutorials, projects, and exercises to help learners grow in the field of software development.
 
-💡 Features:
+- Features:
 Course listings by category (Frontend, Backend, Full Stack, etc.)
 
 Beginner to advanced content structure
@@ -20,7 +20,7 @@ Tech stack integration and examples
 
 User-friendly and responsive design
 
-🚀 Tech Stack Used:
+- Tech Stack Used:
 Frontend: HTML, CSS, JavaScript
 
 Backend: Java / Python / Node.js (based on implementation)
